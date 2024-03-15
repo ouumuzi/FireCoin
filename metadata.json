@@ -1,0 +1,41 @@
+{
+  "name": "FireCoin",
+  "symbol": "FC",
+  "image": "https://raw.githubusercontent.com/ouumuzi/FireCoin/master/firecoin.png",
+  "description": "The bigest meme coin",
+  "extensions": {
+    "website": "https://x.com",
+    "twitter": "https://x.com",
+    "telegram": "https://t.me/oymuzi",
+    "discord": "http://discord.gg/N8z3dQVwsp",
+    "coingeckoId": "btcsol",
+    "description": "FireCoin is Here."
+  },
+  "tags": [
+    "Meme"
+  ],
+  "creator": {
+    "name": "Peggy",
+    "site": "https://x.com.spacex"
+  },
+  "address": "43QSJxmUMYmPr4ydkLDVCHSvpETtQVEJtUTJvfDW1FpU",
+  "icon": "https://raw.githubusercontent.com/ouumuzi/FireCoin/master/firecoin.png",
+  "decimals": 9,
+  "holder": 1,
+  "priceUsdt": 9999.99,
+  "reputation": "neutral",
+  "onChainExtensions": "",
+  "key": 4,
+  "updateAuthority": "2XdBELPFEisx98GypH9wYiw4VJyTMd9MbBeJL41DDyb6",
+  "mint": "43QSJxmUMYmPr4ydkLDVCHSvpETtQVEJtUTJvfDW1FpU",
+  "data": {
+    "name": "FireCoin",
+    "symbol": "FC",
+    "uri": "https://raw.githubusercontent.com/ouumuzi/FireCoin/master/metadata.json",
+    "sellerFeeBasisPoints": 0
+  },
+  "primarySaleHappened": 1,
+  "isMutable": 0,
+  "editionNonce": 255,
+  "tokenStandard": 2
+}
